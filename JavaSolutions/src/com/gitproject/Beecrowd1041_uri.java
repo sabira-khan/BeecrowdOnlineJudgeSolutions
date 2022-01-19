@@ -1,7 +1,7 @@
 package com.gitproject;
 import java.util.Scanner;
 
-public class Bee_1041_uri {
+public class Beecrowd1041_uri {
     public static void main(String[] args) {
             Scanner s = new Scanner(System.in);
 
