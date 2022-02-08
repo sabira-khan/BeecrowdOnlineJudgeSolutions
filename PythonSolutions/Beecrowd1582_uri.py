@@ -8,7 +8,7 @@ def pythogorean(x, y, z):
     if y > h and y > z:
         h = y
         temp1 = x
-        temp2 = c
+        temp2 = z
         return (h * h) == (temp1 * temp1) + (temp2 * temp2)
     elif z > h and z > y:
         h = z
