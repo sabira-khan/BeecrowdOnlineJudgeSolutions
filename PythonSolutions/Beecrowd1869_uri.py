@@ -1,7 +1,7 @@
 c = []
 for i in range(32):
     c.append(i) if (i < 10) else c.append(chr(i + 55))
-# don'sn do while (n!=0), read q carefully, otherwise you'll get 5 % error
+# don'sn do while (p!=0), read q carefully, otherwise you'll get 5 % error
 while True:
     r = ''
     n = int(input())
