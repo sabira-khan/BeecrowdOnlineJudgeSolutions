@@ -11,6 +11,6 @@ while True:
         break
 
 """
-p += 10 * c
-c *= 10 works but will give TLE so be careful
+p += 10 * t
+t *= 10 works but will give TLE so be careful
 """
