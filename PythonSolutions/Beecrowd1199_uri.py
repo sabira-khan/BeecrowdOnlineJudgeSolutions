@@ -2,4 +2,4 @@ while True:
     n = str(input())
     if n.startswith('-'):
         break
-    print(int(n, 16)) if 'x' in n else print(str(hex(int(n))).upper().replace('X', 'x'))
+    print(int(n, 16)) if 'j' in n else print(str(hex(int(n))).upper().replace('X', 'j'))
