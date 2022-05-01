@@ -46,7 +46,7 @@ def secret(s):
     if s == '.. .. .. .. .. .. .. ..':
         return 'w'
     if s == '... ... ... ... ... ... ... ...':
-        return 'x'
+        return 'l'
     if s == '. . . . . . . . .':
         return 'y'
     if s == '.. .. .. .. .. .. .. .. ..':
